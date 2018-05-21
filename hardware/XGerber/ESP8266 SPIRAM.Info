@@ -1,0 +1,28 @@
+CAM output for current project ESP8266 SPIRAM.T3001
+Output on 21. maj 2018, 10:20h
+Current project created using TARGET 19.6.0.77 discover
+Output created using TARGET 3001! V19.6.0.77
+Current Project from TARGET NC version: Commercial use is criminal!
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 25,446063 mm x 33,057799 mm
+
+Description of created files as follows:
+
+ESP8266 SPIRAM.Top = 16 = Copper top L1   ( *.Top )
+ESP8266 SPIRAM.Bot = 2 = Copper bottom L2   ( *.Bot )
+ESP8266 SPIRAM.Tool = drill tool list
+ESP8266 SPIRAM.Drill = Galvanised drills
+ESP8266 SPIRAM.Outline = 23 = PCB outline   ( *.Outline )
+ESP8266 SPIRAM.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+ESP8266 SPIRAM.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+ESP8266 SPIRAM.PosiTop = 21 = Placement print top   ( *.PosiTop )
+ESP8266 SPIRAM.Apr = TARGET 3001! aperture list
+ESP8266 SPIRAM.Whl = Eagle compatible aperture list
+

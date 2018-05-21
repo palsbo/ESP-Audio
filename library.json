@@ -1,0 +1,24 @@
+{
+  "name": "Eriks Audio library",
+  "version": "1.0.1",
+  "keywords": "Websocket","audio","radio"
+  "description": "Objects by Erik Palsbo",
+  "repository":
+  {
+    "type": "git",
+    "url": "http://palsbo.com/rep/erikslib"
+  },
+  "authors":
+  [
+    {
+        "name": "Erik Palsbo",
+        "email": "erik@palsbo.com",
+        "url": "http://palsbo.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ]
+}
